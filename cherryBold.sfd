@@ -43,7 +43,7 @@ NameList: AGL For New Fonts
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 7900 50 9
+WinInfo: 8150 50 9
 OnlyBitmaps: 1
 BeginChars: 65536 194
 
@@ -1405,7 +1405,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 13 194 11 2 1 t
+BitmapFont: 13 195 11 2 1 t
 BDFStartProperties: 17
 FONT 1 "-t-cherry-Bold-R-Normal--13-120-96-96-C-100-ISO10646-1"
 SIZE 1 "12 96 96"
@@ -1442,8 +1442,8 @@ BDFChar: 6 37 7 0 6 -2 10
 !!$PGBG_:7/8Ru[z
 BDFChar: 7 38 7 0 6 -2 10
 !!"]dBJ;,TC1K@*z
-BDFChar: 8 39 7 2 4 6 8
-?pK5B
+BDFChar: 8 39 7 3 3 6 8
+J:N.M
 BDFChar: 9 40 7 0 6 -2 10
 !!EQ5(`4),(^LBMz
 BDFChar: 10 41 7 0 6 -2 10
@@ -1810,9 +1810,9 @@ BDFChar: 190 254 7 0 6 -2 10
 !+92^AnGXeAnHEu?iU0,
 BDFChar: 191 255 7 0 6 -2 10
 !$ifiAnGXeAnF4249,?]
-BDFChar: 192 8216 7 2 4 6 8
-?pK5B
-BDFChar: 193 8217 7 2 4 6 8
-?pK5B
+BDFChar: 192 8216 7 3 3 6 8
+J:N.M
+BDFChar: 193 8217 7 3 3 6 8
+J:N.M
 EndBitmapFont
 EndSplineFont
